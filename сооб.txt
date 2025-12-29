@@ -1,0 +1,13 @@
+обещала вам скинуть доп материалы:
+
+• про а/б-тесты: https://youtu.be/BJwNdethKwQ?si=V4LWTJdpYggQ8Vbd
+• как выбрать стат. тест: https://lit-review.ru/biostatistika/vybor-statisticheskogo-kriteriya/
+• ARIMA: https://education.yandex.ru/handbook/ml/article/modeli-vida-arima
+• ARIMA, ACF, PACF: https://people.duke.edu/~rnau/411arim3.htm
+• правила SARIMA: https://people.duke.edu/~rnau/arimrule.htm
+
+хорошие ноутбуки по временным рядам:  
+
+https://github.com/hse-ds/iad-applied-ds/blob/2025/seminars/09_TS.ipynb 
+
+https://github.com/hse-ds/iad-applied-ds/blob/2025/seminars/10_TS_2.ipynb
